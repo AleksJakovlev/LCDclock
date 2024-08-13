@@ -1,6 +1,7 @@
 /*
 LCD clock with Temperature and Humidity sensors and threshold LEDs.
 by Aleksandr Jakovlev
+aleks.jakovlev[x]outlook.com
 08/08/2024
 v 0.3
 */
